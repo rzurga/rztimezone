@@ -1,0 +1,1 @@
+default[:timezone][:value] = "America/Chicago"
