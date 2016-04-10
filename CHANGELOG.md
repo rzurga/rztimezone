@@ -5,5 +5,5 @@ This file is used to list changes made in each version of the mytimezone cookboo
 
 0.1.0
 -----
-- [rzurga] - Initial release of mytimezone
+- [rzurga] - Initial release of rztimezone
 

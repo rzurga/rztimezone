@@ -22,8 +22,8 @@ e.g.
   <tr>
     <td><tt>['timezone']['value']</tt></td>
     <td>String</td>
-    <td>Which timezone to set, e.g. "America/Chicago"</td>
-    <td><tt>true</tt></td>
+    <td>Which timezone to set, e.g. America/Chicago</td>
+    <td><tt>America/Chicago</tt></td>
   </tr>
 </table>
 
