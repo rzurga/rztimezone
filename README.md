@@ -34,13 +34,17 @@ Just include `rztimezone` in your node's `run_list`:
 
 ```json
 {
-  "name":"my_node",
   "run_list": [
     "recipe[rztimezone]"
   ]
 }
 ```
 
+Berksfile::
+
+    cookbook 'rztimezone', git: "https://github.com/rzurga/rztimezone.git"
+    
+    
 License and Authors
 -------------------
 Authors: Robert Zurga
